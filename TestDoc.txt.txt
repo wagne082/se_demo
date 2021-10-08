@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 this is crazy bro
 
 :)
+=======
+adding feature a...
+second line here...
+
+adding some css text
+>>>>>>> main
