@@ -8,3 +8,5 @@ second line here...
 
 adding some css text
 >>>>>>> main
+
+crazy-alt.  It's like crazy but crazier :)))))
